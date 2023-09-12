@@ -1,12 +1,12 @@
 ## Olá! Me chamo Gabriel Albanez, Sou Desenvolvedor Front-end WEB
 ### Graduando Sistemas para Internet na insituição UNIESP/PB.
-#### Eu ❤️ trazer soluções para os problemas através da programação! <br/> <br/>
+#### Eu ❤️ trazer soluções para os problemas através da programação! <br/> <br/> <hr/>
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=albanezfxp&theme=radical&mode=weekly" />
 <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=albanezfxp&show_icons=true&theme=radical&layout=compact" />
 </div>
 
-## My Skills
+# My Skills
 
 #### Main Stack:
 
