@@ -14,7 +14,9 @@
 "> 
   <img align='center' alt='js' src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
 "> 
-  <img align='center' alt='Git' src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
+  <img align='center' alt='Git' src="[https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
+](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white
+)https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white
 "> 
 
 </div> <br/>
