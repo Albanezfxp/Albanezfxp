@@ -1,5 +1,4 @@
 ## Olá! Me chamo Gabriel Albanez, Sou Desenvolvedor Front-end WEB
-### Graduando Sistemas para Internet na insituição UNIESP/PB.
 #### Eu ❤️ trazer soluções para os problemas através da programação! <br/> <br/> <hr/>
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=albanezfxp&theme=radical&mode=weekly" />
@@ -8,7 +7,7 @@
 
 # My Skills
 
-#### Main Stack:
+#### Hard Skills:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
@@ -27,4 +26,4 @@
 
   
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4668D8&height=120&section=footer"/>
