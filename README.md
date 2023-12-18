@@ -5,16 +5,16 @@
 <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=albanezfxp&show_icons=true&theme=radical&layout=compact" />
 </div>
 
-# My Skills
+## My Skills
 
-#### Soft skills
+## <p>Soft skills:</p>
 
-<p>Boa convivência em grupo </p>
-<p>Flexibilidade </p>
-<p>Eficaz sob pressão </p>
-<p>Facilidade em resolver problemas </p>
+### <p>Boa convivência em grupo </p>
+### <p>Flexibilidade </p>
+### <p>Eficaz sob pressão </p>
+### <p>Facilidade em resolver problemas </p>
 
-#### Hard Skills:
+## Hard Skills:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
