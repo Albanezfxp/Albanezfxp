@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=38&center=true&vCenter=true&width=1000&lines=Olá,Sou+Desenvolvedor+Full+Stack;Seja+Bem-Vindo)](https://git.io/typing-svg)
 
-### oi👋, Me chamo Gabriel Albanez
+### Oi👋, Me chamo Gabriel Albanez
 
 - 🔭 Desenvolvedor Full Stack
 - 🌱 Facilidade em resolver problemas, experiencias com trabalho em equipe e criatividade! 
