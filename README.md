@@ -1,36 +1,10 @@
-### Olá! Me chamo Gabriel Albanez, Sou Desenvolvedor Web
-#### Eu ❤️ trazer soluções para os problemas através da programação! <br/> <br/> <hr/>
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=albanezfxp&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=albanezfxp&show_icons=true&theme=radical&layout=compact" />
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=38&center=true&vCenter=true&width=1000&lines=Olá,Sou+Desenvolvedor+Full+Stack;Seja+Bem-Vindo)](https://git.io/typing-svg)
 
-## <p>Soft skills:</p>
+### oi👋, Me chamo Gabriel Albanez
 
-### <p>Boa convivência em grupo </p>
-### <p>Flexibilidade </p>
-### <p>Eficaz sob pressão </p>
-### <p>Facilidade em resolver problemas </p>
+- 🔭 Desenvolvedor Full Stack
+- 🌱 Facilidade em resolver problemas, experiencias com trabalho em equipe e criatividade! 
 
-## Hard Skills:
-
-<a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c">
-</a>
-<a href="https://github.com/harish-sethuraman/readme-components">
- <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">  
- </a>
-<a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=CSS3&svgfill=028dd1">
-</a>
-<a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github">
-</a>
-  <a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=webpack&svgfill=8ed5fa">
-</a>
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 # My Contacts
 
@@ -40,6 +14,22 @@
 </div>&nbsp;&nbsp;
  
 
-  
-  
+## <p>Tech Skills:</p>
+
+<div style="display: inline_block">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript">
+<img src="https://img.shields.io/badge/REACT-1572B6?style=for-the-badge&logo=react&logoColor=white" alt="react">
+<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github">
+
+<br></br>
+
+<div  align="center" style="margin-bottom:100px">
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=albanezfxp&theme=radical&mode=weekly" />
+<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=albanezfxp&show_icons=true&theme=radical&layout=compact" />
+</div>
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4668D8&height=120&section=footer"/>
