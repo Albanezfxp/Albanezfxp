@@ -1,4 +1,4 @@
-## Olá! Me chamo Gabriel Albanez, Sou Desenvolvedor Front-end WEB
+### Olá! Me chamo Gabriel Albanez, Sou Desenvolvedor Web
 #### Eu ❤️ trazer soluções para os problemas através da programação! <br/> <br/> <hr/>
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=albanezfxp&theme=radical&mode=weekly" />
