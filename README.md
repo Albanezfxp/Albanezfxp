@@ -5,8 +5,6 @@
 <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=albanezfxp&show_icons=true&theme=radical&layout=compact" />
 </div>
 
-## My Skills
-
 ## <p>Soft skills:</p>
 
 ### <p>Boa convivência em grupo </p>
