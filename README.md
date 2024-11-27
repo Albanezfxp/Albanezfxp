@@ -23,6 +23,9 @@
 <img src="https://img.shields.io/badge/REACT-1572B6?style=for-the-badge&logo=react&logoColor=white" alt="react">
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github">
+<img src="https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=white" alt="github">
+
+
 
 <br></br>
 
