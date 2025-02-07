@@ -3,6 +3,7 @@
 ### Oi👋, Me chamo Gabriel Albanez
 
 - 🔭 Desenvolvedor Full Stack
+- Aprovado no teste do GitHub Foundations!
 - 🌱 Facilidade em resolver problemas, experiencias com trabalho em equipe e criatividade! 
 
 
